@@ -1,8 +1,3 @@
-import java.io.File;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-
 public class Loop extends ExecutaADor{
 
     public Loop(String[] vetorLinhas, int qtdLinha) {

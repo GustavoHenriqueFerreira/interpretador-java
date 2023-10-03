@@ -1,9 +1,3 @@
-/* Linguagem Rinha, usar a extensão .rinha
- *
- * Para testar o interpretador, use o comando:
- *   java -jar Rinha.jar Exemplos/HelloWorld.rinha
- */
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
